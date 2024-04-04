@@ -54,18 +54,9 @@
   text-transform: uppercase;
 }
 
-.container__botao {
-  display: none;
-}
-
-.container__titulo {
-  display: none;
-}
-
-.opções {
-  display: none;
-}
-
+.container__botao,
+.container__titulo,
+.opções,
 .container__texto {
   display: none;
 }
@@ -101,17 +92,14 @@
   }
 
   .container__imagem-transparente,
-  .cabeçalho__menu-hamburguer {
+  .cabeçalho__menu-hamburguer,
+  .opções__botão {
     display: none;
   }
 
   .opções__botão:checked ~ .lista-menu {
     display: block;
     width: auto;
-  }
-
-  .opções__botão {
-    display: none;
   }
 }
 
