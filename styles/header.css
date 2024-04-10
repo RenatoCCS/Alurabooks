@@ -127,6 +127,10 @@
     -webkit-text-fill-color: var(--branco);
     text-decoration: none;
   }
+
+  .container__texto:hover {
+    color: var(--laranja);
+  }
 }
 
 @media screen and (min-width: 1920px) {
@@ -147,5 +151,9 @@
 
   .container__texto {
     display: block;
+  }
+
+  .container__texto:hover {
+    color: var(--laranja);
   }
 }

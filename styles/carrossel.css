@@ -73,6 +73,26 @@
   text-decoration: none;
 }
 
+/* #coracao {
+  display: none;
+}
+
+#coracao:checked + label > botões__item coracao {
+  animation: preencher;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes preencher {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: #ff0000;
+  }
+} */
+
 @media screen and (min-width: 1024px) {
   .carrossel__titulo {
     font-size: 26px;
@@ -97,9 +117,9 @@
     margin: 2em auto;
   }
 
-  .swiper-button-prev,
-  .swiper-button-next {
-    display: none;
+  .botões__ancora:hover {
+    color: var(--branco);
+    background: var(--azul-degrade);
   }
 }
 
@@ -135,8 +155,8 @@
     margin-left: 3em;
   }
 
-  .swiper-button-prev,
-  .swiper-button-next {
-    display: none;
+  .botões__ancora:hover {
+    color: var(--branco);
+    background: var(--azul-degrade);
   }
 }
