@@ -5,10 +5,10 @@
 <H1> Alurabooks </H1>
 
 <p align="center">
-  <img src="https://github.com/RenatoCCS/yugioh_jsgame_dio/blob/main/src/assets/icons/logo_yugioh.png" alt="Logo Yugioh">
+  <img src="https://github.com/RenatoCCS/Alurabooks/blob/main/img/Alurabooks.png" alt="Logo Alurabooks">
 </p>
 
-Bem-vindo ao **Alurabooks,** desenvolvi esse projeto utilizando a abordagem mobile-first acompanhando as aulas da Alura, que consite em iniciar o projeto pelo layout mobile, devido ao aparelhos assegurarem a maior parte do tráfego na internet, seguidos de desktop e outros dispositivos. Com o objetivo de fazer o site de empresa de venda de livros técnicos. 
+Bem-vindo ao **Alurabooks,** desenvolvi esse projeto utilizando a abordagem mobile-first acompanhando as aulas da Alura com a instrutora Mônica Hillman, que consite em iniciar o projeto pelo layout mobile, devido ao aparelhos deterem a maior parte do tráfego na internet, seguidos de desktop e outros dispositivos. Com o objetivo de fazer um site de empresa de venda de livros técnicos. 
 
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2>
