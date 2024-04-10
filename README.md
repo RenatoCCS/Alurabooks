@@ -13,9 +13,11 @@ Bem-vindo ao **Alurabooks,** desenvolvi esse projeto utilizando a abordagem mobi
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2>
 
-- HTML5 e CSS3 para a estrutura e aparência do jogo.
-- JavaScript para a lógica de programação e interatividade.
-- E também foi utilizado o framework [RPGUI](https://github.com/RonenNess/RPGUI) que fornece um conjunto de assets no estilo RPG pronto para uso.
+- HTML5 
+- CSS3
+- Git e GitHub
+- [Figma](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks-%7C-Responsividade-com-Mobile-First?type=design&node-id=37-94&mode=design&t=cW8fIOwByL2cyfMc-0) onde tive acesso a todo o design do projeto.
+- E também foi utilizado o plugin [SwiperJS](https://swiperjs.com/) que ajudou a realizar o carrossel de imagens.
 
 <br>
   
