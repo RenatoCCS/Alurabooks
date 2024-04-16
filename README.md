@@ -28,7 +28,7 @@ Nos links abaixo é possível visualizar a página do AluraBooks.
   <br><br>
 - Implantado via vercel https://alurabooks-renatoccs.vercel.app/#
 
-COLOCAR VÍDEOS OU IMAGENS DO BRASIL
+COLOCAR VÍDEOS OU IMAGENS
 
 <br>
 
@@ -38,11 +38,17 @@ O desenvolvimento desse projeto front-end foi iniciado através da metodologia m
 
 <br><br>
 
+<h2> Futuras implementações </h2>
+
+- Darkmode.
+
+<br><br>
+
 <h2>:handshake: Contribuição </h2>
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
 
-Obrigado por visitar meu GitHub dê um "Follow" que te sigo também COLOCAR EMOJI, podemos trocas de ideias para novos projetos.
+Obrigado por visitar meu GitHub dê um "Follow", que sigo de volta 😁, podemos trocas de ideias para novos projetos.
 
 <br>
 
