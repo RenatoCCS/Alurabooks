@@ -8,7 +8,17 @@
   <img src="https://github.com/RenatoCCS/Alurabooks/blob/main/img/Alurabooks.png" alt="Logo Alurabooks">
 </p>
 
-Bem-vindo ao **Alurabooks,** desenvolvi esse projeto utilizando a abordagem mobile-first acompanhando as aulas da Alura com a instrutora [Mônica Hillman](https://github.com/MonicaHillman), que consiste em iniciar o projeto pelo layout mobile, devido ao aparelhos deterem a maior parte do tráfego na internet, seguidos de desktop e outros dispositivos. Com o objetivo de fazer um site de empresa de venda de livros técnicos.
+<br>
+
+<h2>💻 Projeto  </h2>
+
+Bem-vindo ao **AluraBooks,** um e-commerce de venda de livros técnicos.
+O desenvolvimento desse projeto front-end foi iniciado através da abordagem mobile-first acompanhando as aulas da Alura com a instrutora [Mônica Hillman](https://github.com/MonicaHillman). <br><br>
+Os celulares detêm a maior parte do tráfego na internet e por esse motivo o projeto foi iniciado pelo layout mobile, dando sequência na responsividade em desktops e demais dispositivos. <br>
+Foi usado media queries para otimizar a responsividade dos dispositivos (Mobile min-width: 428px, Tablet min-width: 1024px e desktop min-width: 1920px). <br><br>
+Outras técnicas que foram utilizadas no decorrer do projeto foram flexbox, menu hamburguer funcional sem uso de javascript, banner com imagem de fundo com input para pesquisa, importação de plugin de biblioteca externa (swiperjs.com) para fazer o carrossel.
+
+<br><br>
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2>
 
@@ -20,7 +30,7 @@ Bem-vindo ao **Alurabooks,** desenvolvi esse projeto utilizando a abordagem mobi
 
 <br>
 
-<h2>📁  Demonstração </h2>
+<h2>📁  Deploy </h2>
 
 Nos links abaixo é possível visualizar a página do AluraBooks.
 
@@ -28,21 +38,7 @@ Nos links abaixo é possível visualizar a página do AluraBooks.
   <br><br>
 - Implantado via vercel https://alurabooks-renatoccs.vercel.app/#
 
-COLOCAR VÍDEOS OU IMAGENS
-
 <br>
-
-<h2>:hammer: Projeto TROCAR ICONE  </h2>
-
-O desenvolvimento desse projeto front-end foi iniciado através da metodologia mobile first e para ser mais acessível usamos media queries para otimizar a responsividade para diversos dispositivos (Mobile min-width: 428px, Tablet min-width: 1024px e desktop min-width: 1920px). Outras técnicas que foram utilizadas foram flexbox, menu hamburguer funcional sem uso de javascript, banner com imagem de fundo com input para pesquisa, importação de plugin de biblioteca externa (swiperjs.com) para fazer o carrossel.
-
-<br><br>
-
-<h2> Futuras implementações </h2>
-
-- Darkmode.
-
-<br><br>
 
 <h2>:handshake: Contribuição </h2>
 
