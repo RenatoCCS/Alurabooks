@@ -1,7 +1,3 @@
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
 <H1> AluraBooks </H1>
 
 <p align="center">
@@ -13,7 +9,7 @@
 <h2>💻 Projeto  </h2>
 
 Bem-vindo ao **AluraBooks,** um e-commerce de venda de livros técnicos.
-O desenvolvimento desse projeto front-end foi iniciado através da abordagem mobile-first acompanhando as aulas da Alura com a instrutora [Mônica Hillman](https://github.com/MonicaHillman). <br><br>
+O desenvolvimento desse projeto front-end foi iniciado através da abordagem mobile-first acompanhando as aulas da [Alura](https://cursos.alura.com.br/course/html-css-responsividade-mobile-first) com a instrutora [Mônica Hillman](https://github.com/MonicaHillman). <br><br>
 Os celulares detêm a maior parte do tráfego na internet e por esse motivo o projeto foi iniciado pelo layout mobile, dando sequência na responsividade em desktops e demais dispositivos. <br>
 Foi usado media queries para otimizar a responsividade dos dispositivos (Mobile min-width: 428px, Tablet min-width: 1024px e desktop min-width: 1920px). <br><br>
 Outras técnicas que foram utilizadas no decorrer do projeto foram flexbox, menu hamburguer funcional sem uso de javascript, banner com imagem de fundo com input para pesquisa, importação de plugin de biblioteca externa (swiperjs.com) para fazer o carrossel.
@@ -44,7 +40,7 @@ Nos links abaixo é possível visualizar a página do AluraBooks.
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
 
-Obrigado por visitar meu GitHub dê um "Follow", que sigo de volta 😁, podemos trocas de ideias para novos projetos.
+Obrigado por visitar meu GitHub dê um ["Follow"](https://github.com/RenatoCCS), que sigo de volta 😁, podemos trocas de ideias para novos projetos.
 
 <br>
 
